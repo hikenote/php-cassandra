@@ -320,3 +320,5 @@ new Cassandra\Type\CollectionSet([
 ## Inspired by
 * [mauritsl/php-cassandra](https://github.com/mauritsl/php-cassandra)
 * [evseevnn/php-cassandra-binary](https://github.com/evseevnn/php-cassandra-binary)
+
+
